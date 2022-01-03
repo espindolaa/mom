@@ -12,7 +12,7 @@ class Question {
 
 currentQuestionIndex = 0;
 questions = [
-    new Question("Em que ano a Torre Eifel foi concluída?", ["1889", "1789", "1915", "1887"], 0),
+    new Question("Em que ano a Torre Eiffel foi concluída?", ["1889", "1789", "1915", "1887"], 0),
     new Question("Onde Napoleão morreu?", ["Paris", "Londres", "Ilha de Elba", "Santa Helena"], 3),
     new Question("Onde está a Vênus de Milo?", ["MOMA", "Louvre", "Orsay", "Museu Britânico"], 1),
     new Question("Qual teu filho favorito?", ["Mateus", "Mateus", "Lucas", "Mateus"], 2),
